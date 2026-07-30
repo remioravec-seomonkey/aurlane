@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+verify_*.png
+site/index-single.html
+site/index-standalone.html
+.DS_Store
