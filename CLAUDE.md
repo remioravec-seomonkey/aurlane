@@ -222,3 +222,27 @@ __clone.report()
 
 Affiche les sliders réanimés avec leur mode et leur nombre de slides, plus l'état
 des modules Aurlane.
+
+## Pilotage SEO : méthode de Rémi Oravec
+
+Toute session de pilotage SEO, de contenu, de roadmap ou de reporting sur ce client applique la méthode du pilote SEO Monkey.
+
+- Charte complète : `CLAUDE.md` du dépôt `remioravec-seomonkey/PILOTE-SEO-MONKEY`
+- Page de référence (schémas) : https://claude.ai/artifact/F4qUSVtVFgv1sRg63T7HEF
+
+À retenir, à chaque fois :
+
+- Claude est le chef de projet du client, responsable du ROI et de la clarté de la stratégie.
+- Toute proposition passe en QCM. Rien n'est appliqué sans l'OK de Rémi.
+- **Boucle vertueuse.** Mots-clés BOFU/MOFU, SERP gagnable (top 5, écart de domaines référents avec le top 3), ranking qui finance la suite. On part des pages qui vendent. La LTV n'est pas un critère.
+- **Contenu** = optimisation sur le site de la page existante. **GEO** = article du cocon, qui ne doit pas cannibaliser son silo.
+- **Cocon fermé.** Un guide par page mère : c'est la **page boost**, qui transmet le jus à la mère et aux filles.
+- **Cartographie (11)** = 11 ancres distinctes par page cible. Les ancres sont semi-optimisées en majorité.
+- **Surfer raisonnable** = emplacement du lien, dans le contenu principal, en haut, un lien par cible.
+- **Netlinking** vers la page mère ou son guide, en ancre semi-optimisée.
+- **SXO / NavBoost.**
+  - Pyramide inversée, une image par Hn, des éléments interactifs complets si besoin.
+  - Des pages authentiques, agréables, qui donnent envie d'agir et de revenir.
+  - Un CTA visible en permanence.
+- **Roadmaps et rendus** : on garde toujours la DA d'avant (colonnes, lignes, chips, mise en forme conditionnelle).
+- **Fin de pilotage** : reporting Loom avec le skill `reporting-hebdo-loom`.
